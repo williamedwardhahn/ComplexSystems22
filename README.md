@@ -7,6 +7,8 @@
 * Aquarium / Terrarium
 * Custom Projects
 
+* Alan Kay (Project Vivarium) https://www.youtube.com/watch?v=yBSDbE2hbXc
+
 * https://en.wikipedia.org/wiki/El-Fish
 * https://en.wikipedia.org/wiki/Automata_theory
 * https://www.youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc
