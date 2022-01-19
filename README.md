@@ -25,3 +25,6 @@
 
 * MIT Braitenberg Creatures https://www.youtube.com/watch?v=VWeRC6j0fW4&list=PLWmIsQcAzRkp_f9juOLlC2Q0O7Tln7E3d&index=29
 * The turtle and the mouse: how constructivist learning theory shaped artificial intelligence and educational technology in the 1960s https://www.researchgate.net/publication/347811343_The_turtle_and_the_mouse_how_constructivist_learning_theory_shaped_artificial_intelligence_and_educational_technology_in_the_1960s
+
+* Visual Scripting State Machines https://www.youtube.com/watch?v=r_mu_34WoDQ
+* Visual Scripting State Machines https://www.youtube.com/watch?v=Kwpi9j_88xA
