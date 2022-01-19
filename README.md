@@ -30,3 +30,4 @@
 
 * Visual Scripting State Machines https://www.youtube.com/watch?v=r_mu_34WoDQ
 * Visual Scripting State Machines https://www.youtube.com/watch?v=Kwpi9j_88xA
+* OpenAI GPT-3 Powered NPCs https://www.youtube.com/watch?v=jH-6-ZIgmKY
