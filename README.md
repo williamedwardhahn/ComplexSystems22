@@ -31,3 +31,7 @@
 * Visual Scripting State Machines https://www.youtube.com/watch?v=r_mu_34WoDQ
 * Visual Scripting State Machines https://www.youtube.com/watch?v=Kwpi9j_88xA
 * OpenAI GPT-3 Powered NPCs https://www.youtube.com/watch?v=jH-6-ZIgmKY
+
+
+
+* An Introduction to Software Agents https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.336.624&rep=rep1&type=pdf
