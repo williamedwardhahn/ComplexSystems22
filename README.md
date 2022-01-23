@@ -35,3 +35,5 @@
 
 
 * An Introduction to Software Agents https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.336.624&rep=rep1&type=pdf
+
+* http://shinyverse.org/larryy/ALife2.html
