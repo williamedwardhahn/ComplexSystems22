@@ -39,3 +39,5 @@
 * http://shinyverse.org/larryy/ALife2.html
 
 * Computer Graphics from Scratch https://gabrielgambetta.com/computer-graphics-from-scratch/
+
+* The Fith Programming Language https://mishaklopukh.github.io/fithlang/
