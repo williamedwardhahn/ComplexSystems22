@@ -1,3 +1,5 @@
+# See: https://github.com/ggambetta/computer-graphics-from-scratch
+#
 # import os
 # os.system("pip install --ignore-installed  git+https://github.com/williamedwardhahn/DeepZoo")
 from DeepZoo import *
