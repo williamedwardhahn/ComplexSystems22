@@ -43,3 +43,8 @@
 * The Fith Programming Language https://mishaklopukh.github.io/fithlang/
 
 * https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/
+
+* https://www.atarimagazines.com/v1n3/forthfactory.html
+
+* https://www.apple.asimov.net/documentation/programming/forth/GraFORTH%20Manual%20-%20inSoft.pdf
+* https://www.atarimagazines.com/v1n3/forthfactory.html
