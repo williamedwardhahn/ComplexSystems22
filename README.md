@@ -10,6 +10,8 @@
 * Alan Kay (Project Vivarium) https://www.youtube.com/watch?v=yBSDbE2hbXc
 
 * https://en.wikipedia.org/wiki/El-Fish
+* https://www.myabandonware.com/game/el-fish-1lo/play-1lo
+* https://en.wikipedia.org/wiki/Creatures_(video_game_series)
 * https://en.wikipedia.org/wiki/Automata_theory
 * https://www.youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc
 * https://www.collectorsweekly.com/articles/ancient-androids/?platform=hootsuite
