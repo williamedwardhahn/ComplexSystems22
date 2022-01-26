@@ -32,6 +32,7 @@
 * Visual Scripting State Machines https://www.youtube.com/watch?v=Kwpi9j_88xA
 * OpenAI GPT-3 Powered NPCs https://www.youtube.com/watch?v=jH-6-ZIgmKY
 
+* Forth https://hackaday.com/2017/01/27/forth-the-hackers-language/
 
 
 * An Introduction to Software Agents https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.336.624&rep=rep1&type=pdf
