@@ -13,13 +13,13 @@
 * Unity https://arxiv.org/pdf/1809.02627.pdf
 
 ## Automata
-https://www.youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc
-http://www.gbv.de/dms/mpib-toc/43118156X.pdf
-https://en.wikipedia.org/wiki/Automata_theory
-http://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1956.pdf
-https://www.collectorsweekly.com/articles/ancient-androids/?platform=hootsuite
-https://static.ias.edu/pitp/archive/2012files/Probabilistic_Logics.pdf
-https://apps.dtic.mil/sti/citations/ADA238632
+* https://www.youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc
+* http://www.gbv.de/dms/mpib-toc/43118156X.pdf
+* https://en.wikipedia.org/wiki/Automata_theory
+* http://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1956.pdf
+* https://www.collectorsweekly.com/articles/ancient-androids/?platform=hootsuite
+* https://static.ias.edu/pitp/archive/2012files/Probabilistic_Logics.pdf
+* https://apps.dtic.mil/sti/citations/ADA238632
 
 ## ALife
 * MIT Braitenberg Creatures https://www.youtube.com/watch?v=VWeRC6j0fW4&list=PLWmIsQcAzRkp_f9juOLlC2Q0O7Tln7E3d&index=29
@@ -30,10 +30,10 @@ https://apps.dtic.mil/sti/citations/ADA238632
 
 
 ## Programming Theory
+* The Fith Programming Language https://mishaklopukh.github.io/fithlang/
 * An Introduction to Software Agents https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.336.624&rep=rep1&type=pdf
 * Forth https://hackaday.com/2017/01/27/forth-the-hackers-language/
 * Computer Graphics from Scratch https://gabrielgambetta.com/computer-graphics-from-scratch/
-* The Fith Programming Language https://mishaklopukh.github.io/fithlang/
 * https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/
 * https://www.atarimagazines.com/v1n3/forthfactory.html
 * https://www.apple.asimov.net/documentation/programming/forth/GraFORTH%20Manual%20-%20inSoft.pdf
