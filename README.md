@@ -50,5 +50,7 @@ https://docs.google.com/presentation/d/1kDb8M3hZMFEvVZQqUAl6sDFo1ADO87PaoHZ-uLqg
 * Vehicles https://drive.google.com/file/d/19OpxYw6ZFPjEwLeIt236CnTo6z8FAJhg/view?usp=sharing
 * The Turtle and the Mouse https://www.researchgate.net/publication/347811343_The_turtle_and_the_mouse_how_constructivist_learning_theory_shaped_artificial_intelligence_and_educational_technology_in_the_1960s
 
+* Human Computers https://www.jeffreythompson.org/human-computers.php
+
 ## Unity
 * ML Agents Project https://drive.google.com/file/d/1XMSFERjwd2yt7n1URfQ-ppOCsRfw85Kx/view?usp=sharing
