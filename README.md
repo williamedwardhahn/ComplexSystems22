@@ -15,6 +15,7 @@ https://docs.google.com/presentation/d/1kDb8M3hZMFEvVZQqUAl6sDFo1ADO87PaoHZ-uLqg
 * Unity https://arxiv.org/pdf/1809.02627.pdf
 
 ## Automata
+* https://web.archive.org/web/20170813114257if_/http://karlscherer.com/Wireworld.html
 * https://www.youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc
 * http://www.gbv.de/dms/mpib-toc/43118156X.pdf
 * https://en.wikipedia.org/wiki/Automata_theory
